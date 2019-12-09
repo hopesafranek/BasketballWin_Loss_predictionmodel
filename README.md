@@ -1,4 +1,4 @@
-# Dodgers Win / Loss Prediction Model
+# Basketball Team Win / Loss Prediction Model
 
 RULES OF KAGGLE COMPETITION: 
 
